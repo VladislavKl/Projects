@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Figure>
+    <Rectangle>
+        <X1>1</X1>
+        <Y1>2</Y1>
+        <X2>3</X2>
+        <Y2>4</Y2>
+        <Square>145</Square>
+    </Rectangle>
+    <Rectangle>
+        <X1>3</X1>
+        <Y1>1</Y1>
+        <X2>4</X2>
+        <Y2>6</Y2>
+        <Square>111</Square>
+    </Rectangle>
+    <Rectangle>
+        <X1>12</X1>
+        <Y1>42</Y1>
+        <X2>1</X2>
+        <Y2>53</Y2>
+        <Square>151</Square>
+    </Rectangle>
+    <Rectangle>
+        <X1>1</X1>
+        <Y1>22</Y1>
+        <X2>3</X2>
+        <Y2>45</Y2>
+        <Square>13</Square>
+    </Rectangle>
+</Figure>

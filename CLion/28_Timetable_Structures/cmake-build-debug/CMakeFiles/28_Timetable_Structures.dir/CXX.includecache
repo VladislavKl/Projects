@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/klyuevvladislav/CLionProjects/28_Timetable_Structures/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+set
+-
+algorithm
+-
+

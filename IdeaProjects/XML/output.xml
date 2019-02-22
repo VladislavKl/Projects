@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Disk>
+        
+    <Folder>
+                
+        <Name>Programs</Name>
+                
+        <Capacity>100</Capacity>
+                
+        <EmptySpace>20</EmptySpace>
+                
+        <LastVisitor>Anna</LastVisitor>
+                
+        <Creator>William</Creator>
+                
+        <Type>System</Type>
+                
+        <Access>Admin</Access>
+                
+        <QuantityOfFiles>52</QuantityOfFiles>
+            
+    </Folder>
+        
+    <Folder>
+                
+        <Name>Video</Name>
+                
+        <Capacity>200</Capacity>
+                
+        <EmptySpace>90</EmptySpace>
+                
+        <LastVisitor>Martha</LastVisitor>
+                
+        <Creator>Bill</Creator>
+                
+        <Type>General</Type>
+                
+        <Access>All</Access>
+                
+        <QuantityOfFiles>423</QuantityOfFiles>
+            
+    </Folder>
+    
+</Disk>

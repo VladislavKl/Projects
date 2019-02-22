@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+  <rect>
+    <point x="300" y="400" />
+    <point x="320" y="600" />
+  </rect>
+  <rect>
+    <point x="5" y="10" />
+    <point x="50" y="100" />
+  </rect>
+  <rect>
+    <point x="5" y="300" />
+    <point x="205" y="340" />
+  </rect>
+  <rect>
+    <point x="500" y="500" />
+    <point x="650" y="700" />
+  </rect>
+</data>

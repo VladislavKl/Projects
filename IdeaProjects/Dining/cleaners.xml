@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+  <type value = "wash"/>
+  <cleaner firm="Bosh" color="RED" power="1000" image="" volume="3.5"/>
+  <cleaner firm="Bosh" color="BLACK" power="1200" image="" volume="3"/>
+  <cleaner firm="Bosh" color="BLUE" power="1000" image="" volume="3.5"/>
+  <cleaner firm="Bosh" color="BLUE" power="1100" image="" volume="3.5"/>
+  <cleaner firm="Atlant" color="BLACK" power="1000" image="" volume="4"/>
+  <cleaner firm="Atlant" color="BLUE" power="1100" image="" volume="4"/>
+  <cleaner firm="Atlant" color="RED" power="1100" image="" volume="4"/>
+</data>

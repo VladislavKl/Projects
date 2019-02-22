@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+  <type value = "robot"/>
+  <cleaner firm="Bosh" color="BLACK" power="1200" image="" hasscreen="true"/>
+  <cleaner firm="Bosh" color="RED" power="1000" image="" hasscreen="false"/>
+  <cleaner firm="Atlant" color="BLUE" power="1100" image="" hasscreen="true"/>
+</data>
